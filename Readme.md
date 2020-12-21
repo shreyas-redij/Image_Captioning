@@ -4,7 +4,7 @@
 - Decoder compares target image with large dataset and generate accurate description.
 - The performance of the proposed model is evaluated using standard evaluation matrices such as BLUE score.
 
-** Data Source**
+**Data Source**
 - Flickr 8K Image captioning dataset is used
 - In the Flickr8k dataset, each image is associated with five different captions that describe the entities and events
 
