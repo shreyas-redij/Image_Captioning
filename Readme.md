@@ -11,6 +11,7 @@
 ![alt text](https://github.com/shreyas-redij/Image_Captioning/blob/main/Img/Dataset.JPG)
 
 **Architecture**
+
 ![alt text](https://github.com/shreyas-redij/Image_Captioning/blob/main/Img/Architechture1.JPG)
 
 **Technical Approach**
@@ -27,7 +28,7 @@
 **Results**
  ![alt text](https://github.com/shreyas-redij/Image_Captioning/blob/main/Img/Results1.JPG)
  ![alt text](https://github.com/shreyas-redij/Image_Captioning/blob/main/Img/Results2.JPG)
- ![alt text](https://github.com/shreyas-redij/Image_Captioning/blob/main/Img/Results3.JPG)
+ ![alt text](https://github.com/shreyas-redij/Image_Captioning/blob/main/Img/Resutls3.JPG)
  
 **Future Scope**
 - Results can be improved using Attention based model
